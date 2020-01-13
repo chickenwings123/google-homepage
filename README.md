@@ -1,0 +1,1 @@
+I used CSS and HTML to recreate the Google homepage.The most difficult part was centering the divs. 
